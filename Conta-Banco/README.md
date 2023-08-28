@@ -1,18 +1,18 @@
-## Getting Started
+## Conta Bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao Banco Justo, essa aplicação CLI irá te ajudar a criar uma conta conosco
 
-## Folder Structure
+## Uso
 
-The workspace contains two folders by default, where:
+A aplicação irá solicitar dos clientes algumas informações pessoais para que a conta seja criada.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+| Tipo   | Nome Variável | Exemplo |
+| ------ | ------------- | ------- |
+| String | nomeCliente   | Alfredo |
+| String | agencia       | 1234-5  |
+| int    | conta         | 6789    |
+| double | saldo         | 150     |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Exemplo Output Terminal
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![](/home/joey/coding/bootcamp-java-backend/Conta-Banco/src/img/exemple.png)
