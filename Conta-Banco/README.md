@@ -15,4 +15,4 @@ A aplicação irá solicitar dos clientes algumas informações pessoais para qu
 
 ### Exemplo Output Terminal
 
-![](/home/joey/coding/bootcamp-java-backend/Conta-Banco/src/img/exemple.png)
+![](https://github.com/Joey-Resende/bootcamp-java-backend/blob/main/Conta-Banco/src/img/exemple.png)
