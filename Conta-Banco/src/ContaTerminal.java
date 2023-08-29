@@ -22,7 +22,7 @@ public class ContaTerminal {
         scanner2.close();
 
         System.out.println("===========================");
-        System.out.printf("Olá %s, obrigado por criar uma conta en nosso banco.", nomeCliente);
+        System.out.printf("Olá %s, obrigado por criar uma conta no nosso banco.", nomeCliente);
         System.out.println();
         System.out.println("***** Dados da Conta *****");
         System.out.println("Cliente: " + nomeCliente);
