@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio Controle de Fluxo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao Banco Justo, essa aplicação CLI irá te ajudar a criar uma conta conosco.
 
-## Folder Structure
+## Uso
 
-The workspace contains two folders by default, where:
+A aplicação irá solicitar dois números inteiros para realizar a iteração.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+| Tipo   | Nome Variável | Exemplo |
+| ------ | ------------- | ------- |
+| int    | numero1       | 12      |
+| int    | numero2       | 30      |
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Exemplo Output Terminal
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![](https://github.com/Joey-Resende/bootcamp-java-backend/blob/main/Conta-Banco/src/img/exemple.png)

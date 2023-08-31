@@ -9,10 +9,14 @@ public class Contador {
         int numero1 = scanner1.nextInt();
         System.out.print("Digite o segundo número: ");
         int numero2 = scanner2.nextInt();
-
         scanner1.close();
         scanner2.close();
-        System.out.println(numero1);
-        System.out.println(numero2);
+
+        int contar = numero2 - numero1;
+
+        for(int x = 1; x <= contar; x++) {
+            System.out.println("Imprimindo o número " + x);
+        }
+      
     }
 }
